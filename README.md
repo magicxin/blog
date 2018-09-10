@@ -13,3 +13,5 @@
     - [npm](https://www.npmjs.com/)
         - [commander](https://www.npmjs.com/package/commander)
 * [shell](www.baidu.com)
+    - [commander](https://github.com/tj/commander.js)
+    - [chalk](https://github.com/chalk/chalk)
