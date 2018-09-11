@@ -11,6 +11,7 @@
 * [css](www.baidu.com)
 * [node](http://nodejs.cn/)
     - [npm](https://www.npmjs.com/)
+    - [flow](https://www.npmjs.com/package/flow)
     - [fs](http://nodejs.cn/api/fs.html)
         - [shell]
             - [commander](https://www.npmjs.com/package/commander)
