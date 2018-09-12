@@ -13,10 +13,11 @@
     - [npm](https://www.npmjs.com/)
     - [flow](https://www.npmjs.com/package/flow) 类型校验工具 vuejs使用此工具
     - [fs](http://nodejs.cn/api/fs.html)
-        - [shell]
-            - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载 
-            - [rimraf](https://www.npmjs.com/package/rimraf) The UNIX command rm -rf for node.
-            - [commander](https://www.npmjs.com/package/commander)
-            - [chalk](https://github.com/chalk/chalk)
+    - [shell]
+        - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载 
+        - [rimraf](https://www.npmjs.com/package/rimraf) The UNIX command rm -rf for node.
+        - [commander](https://www.npmjs.com/package/commander)
+        - [chalk](https://github.com/chalk/chalk)
+        - [shelljs](https://www.npmjs.com/package/shelljs)
 * [shell](www.baidu.com)
     
