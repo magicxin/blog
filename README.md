@@ -14,8 +14,8 @@
     - [flow](https://www.npmjs.com/package/flow)
     - [fs](http://nodejs.cn/api/fs.html)
         - [shell]
-            - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载
-            -[rm](https://www.npmjs.com/package/rm)
+            - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载 
+            - [rm](https://www.npmjs.com/package/rm)
             - [commander](https://www.npmjs.com/package/commander)
             - [chalk](https://github.com/chalk/chalk)
 * [shell](www.baidu.com)
