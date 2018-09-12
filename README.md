@@ -11,7 +11,7 @@
 * [css](www.baidu.com)
 * [node](http://nodejs.cn/)
     - [npm](https://www.npmjs.com/)
-    - [flow](https://www.npmjs.com/package/flow)
+    - [flow](https://www.npmjs.com/package/flow) 类型校验工具 vuejs使用此工具
     - [fs](http://nodejs.cn/api/fs.html)
         - [shell]
             - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载 
