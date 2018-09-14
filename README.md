@@ -25,6 +25,8 @@
 * [shell](www.baidu.com)
 * [test]()
     - [mocha](https://mochajs.org/)
+    - [jasmine](https://jasmine.github.io/index.html)
+    - [karma](http://karma-runner.github.io/)
     - [chai](http://www.chaijs.com/)
 * [style guide]
     - [javascript]()
