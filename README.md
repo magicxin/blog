@@ -28,6 +28,7 @@
     - [jasmine](https://jasmine.github.io/index.html)
     - [karma](http://karma-runner.github.io/)
     - [chai](http://www.chaijs.com/)
+    - [@vue/test-utils](https://www.npmjs.com/package/@vue/test-utils)
 * [style guide]
     - [javascript]()
         - [Airbnb](https://github.com/airbnb/javascript)
