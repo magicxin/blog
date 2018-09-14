@@ -20,4 +20,7 @@
         - [chalk](https://github.com/chalk/chalk)
         - [shelljs](https://www.npmjs.com/package/shelljs) unix shell commands for nodejs
 * [shell](www.baidu.com)
+* [test]()
+    [mocha](https://mochajs.org/)
+    [chai](http://www.chaijs.com/)
     
