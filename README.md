@@ -30,6 +30,7 @@
     - [chai](http://www.chaijs.com/)
     - [@vue/test-utils](https://www.npmjs.com/package/@vue/test-utils)
         - [demo](https://github.com/vuejs/vue-test-utils-mocha-webpack-example)
+        - [doc](https://vue-test-utils.vuejs.org/zh/guides/#%E8%B5%B7%E6%AD%A5)
 * [style guide]
     - [javascript]()
         - [Airbnb](https://github.com/airbnb/javascript)
