@@ -26,4 +26,8 @@
 * [test]()
     - [mocha](https://mochajs.org/)
     - [chai](http://www.chaijs.com/)
-    
+* [style guide]
+    - [javascript]()
+        - [Airbnb](https://github.com/airbnb/javascript)
+        - [google](https://google.github.io/styleguide/jsguide.html)
+        - [standard](https://github.com/standard/standard)
