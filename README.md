@@ -29,6 +29,7 @@
     - [karma](http://karma-runner.github.io/)
     - [chai](http://www.chaijs.com/)
     - [@vue/test-utils](https://www.npmjs.com/package/@vue/test-utils)
+        - [demo](https://github.com/vuejs/vue-test-utils-mocha-webpack-example)
 * [style guide]
     - [javascript]()
         - [Airbnb](https://github.com/airbnb/javascript)
