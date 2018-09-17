@@ -1,10 +1,15 @@
 # MAGIC BLOG
+
 * [tool](www.baidu.com)
     - [webpack](https://www.webpackjs.com/)
     - [gulp](https://www.gulpjs.com.cn/)
     - [rollup]( https://www.rollupjs.com/guide/zh#introduction)
 * [javscript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
-    - [vue](https://cn.vuejs.org/)
+    - framework
+        - [vue](https://cn.vuejs.org/)
+        - [knockout](https://knockoutjs.com/) // 支持ie6
+        - [react](https://reactjs.org/)
+        - [pug](https://pug.bootcss.com/api/getting-started.html) // 模板引擎
     - [es6-promise](https://github.com/stefanpenner/es6-promise)
     - [lie](https://github.com/calvinmetcalf/lie)
 * [html](www.baidu.com)
