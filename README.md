@@ -7,8 +7,15 @@
 * [javscript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript)
     - framework
         - [vue](https://cn.vuejs.org/)
+            - [cssInJs]()
+                - [styled-components-vue](https://github.com/styled-components/styled-components)
+                - [vue-emotion](https://github.com/egoist/vue-emotion)
         - [knockout](https://knockoutjs.com/) // 支持ie6
         - [react](https://reactjs.org/)
+            - [cssInJs]()
+                - [styled-components](https://github.com/styled-components/styled-components)
+                - [glamorous](https://github.com/paypal/glamorous)
+                - [emotion](https://github.com/emotion-js/emotion)
         - [pug](https://pug.bootcss.com/api/getting-started.html) // 模板引擎
     - [es6-promise](https://github.com/stefanpenner/es6-promise)
     - [lie](https://github.com/calvinmetcalf/lie)
@@ -41,3 +48,17 @@
         - [Airbnb](https://github.com/airbnb/javascript)
         - [google](https://google.github.io/styleguide/jsguide.html)
         - [standard](https://github.com/standard/standard)
+        
+
+
+# 前端开发涉及的各种概念
+
+## 关注分离点（separation of concerns）
+
+## 关注点混合（始于react，组件化思想）
+
+## css in js
+
+## 
+
+
