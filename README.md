@@ -2,6 +2,8 @@
 
 * [tool](www.baidu.com)
     - [webpack](https://www.webpackjs.com/)
+        - [plugin]()
+            - [friendly-errors-webpack-plugin](https://www.npmjs.com/package/friendly-errors-webpack-plugin) 更友好的显示命令行，如done提示，端口提示。
     - [gulp](https://www.gulpjs.com.cn/)
     - [rollup]( https://www.rollupjs.com/guide/zh#introduction)
     - [parcel](http://www.css88.com/doc/parcel/getting_started.html)
@@ -59,6 +61,8 @@
         - [commander](https://www.npmjs.com/package/commander) 简化命令行处理
         - [chalk](https://github.com/chalk/chalk)
         - [shelljs](https://www.npmjs.com/package/shelljs) unix shell commands for nodejs
+        - [portfinder](https://www.npmjs.com/package/portfinder) A simple tool to find an open port or domain socket on the current machine
+        
 * [shell](www.baidu.com)
 * [test]()
     - [mocha](https://mochajs.org/)
