@@ -53,7 +53,7 @@
     - [BEM]()
 * [node](http://nodejs.cn/)
     - [npm](https://www.npmjs.com/)
-    - [flow](https://www.npmjs.com/package/flow) 类型校验工具 vuejs使用此工具
+    - [flow](https://github.com/facebook/flow) 类型校验工具 vuejs使用此工具
     - [fs](http://nodejs.cn/api/fs.html)
     - [shell]
         - [ora](https://www.npmjs.com/package/ora) 旋转的命令行加载 Elegant terminal spinner
