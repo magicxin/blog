@@ -18,6 +18,7 @@
 - [google](https://google.github.io/styleguide/jsguide.html)
 - [standard](https://github.com/standard/standard)
 - [modernizr](https://modernizr.com/) js css 的渐进增强方案
+- [analyticsjs](https://developers.google.cn/analytics/devguides/collection/analyticsjs/?hl=zh-cn)
 ### [vue](https://cn.vuejs.org/)
 
 - [vue-cli3](https://cli.vuejs.org/)
