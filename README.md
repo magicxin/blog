@@ -17,7 +17,7 @@
 - [Airbnb](https://github.com/airbnb/javascript)
 - [google](https://google.github.io/styleguide/jsguide.html)
 - [standard](https://github.com/standard/standard)
-    
+- [modernizr](https://modernizr.com/) js css 的渐进增强方案
 ### [vue](https://cn.vuejs.org/)
 
 - [vue-cli3](https://cli.vuejs.org/)
