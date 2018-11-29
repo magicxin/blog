@@ -110,3 +110,4 @@ http://gs.statcounter.com/ 网站访问浏览器检索
 http://html5doctor.com/
 http://gsnedders.html5.org/outliner/ 在线纲要生成
 http://h5o.github.io/ h5纲要
+https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/
