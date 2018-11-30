@@ -111,3 +111,7 @@ http://html5doctor.com/
 http://gsnedders.html5.org/outliner/ 在线纲要生成
 http://h5o.github.io/ h5纲要
 https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/
+https://html.spec.whatwg.org/multipage/parsing.html html解析算法
+https://www.w3.org/TR/html4/strict.dtd html4 dtd规范
+www.w3.org/DOM/DOMTR dom 通用规范
+www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109/idl-definitions.html html 定义
