@@ -115,3 +115,4 @@ https://html.spec.whatwg.org/multipage/parsing.html html解析算法
 https://www.w3.org/TR/html4/strict.dtd html4 dtd规范
 www.w3.org/DOM/DOMTR dom 通用规范
 www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109/idl-definitions.html html 定义
+https://www.w3.org/TR/CSS2/grammar.html css规范
