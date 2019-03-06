@@ -68,6 +68,7 @@
 - [npm](https://www.npmjs.com/)
 - [flow](https://github.com/facebook/flow) 类型校验工具 vuejs使用此工具
 - [fs](http://nodejs.cn/api/fs.html)
+- [supervisor](https://github.com/petruisfan/node-supervisor) 检查日志状态重启
     
 ## shell
 
