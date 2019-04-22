@@ -110,16 +110,59 @@ https://blog.csdn.net/fair_feng/article/details/72865140
 ## 网址
 
 http://gs.statcounter.com/ 网站访问浏览器检索
+
 http://html5doctor.com/
+
 http://gsnedders.html5.org/outliner/ 在线纲要生成
+
 http://h5o.github.io/ h5纲要
+
 https://www.html5rocks.com/zh/tutorials/internals/howbrowserswork/
+
 https://html.spec.whatwg.org/multipage/parsing.html html解析算法
+
 https://www.w3.org/TR/html4/strict.dtd html4 dtd规范
+
 www.w3.org/DOM/DOMTR dom 通用规范
+
 www.w3.org/TR/2003/REC-DOM-Level-2-HTML-20030109/idl-definitions.html html 定义
+
 https://www.w3.org/TR/CSS2/grammar.html css规范
+
 https://www.zcfy.cc/article/why-use-flow-1585.html 
+
 https://www.cnblogs.com/beer/p/6029861.html
+
 https://www.cssdesignawards.com/website-gallery/?designer=baqemono.inc.
+
 https://thebookofshaders.com/
+
+AST 语法树
+
+https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey/Parser_API#Node_objects  // parse
+
+https://segmentfault.com/a/1190000016231512
+
+贝塞尔曲线
+
+https://blog.csdn.net/linuxheik/article/details/79454663
+
+https://bbs.egret.com/thread-54151-1-1.html
+
+vue 事件总线
+
+https://www.jianshu.com/p/4fa3bf211785
+
+mockjs
+
+http://mockjs.com/examples.html#Random\.clast\(\)
+
+ts
+
+https://www.imooc.com/article/47096
+
+https://segmentfault.com/a/1190000011744210?utm_source=tuicool&utm_medium=referral
+
+http://www.onlyling.com/archives/396
+
+https://www.tslang.cn/docs/handbook/interfaces.html
